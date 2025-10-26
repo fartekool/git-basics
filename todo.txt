@@ -1,1 +1,5 @@
 Hello
+total 2
+-rw-r--r-- 1 alext 197609 42 Oct 26 13:26 README.md
+-rw-r--r-- 1 alext 197609  0 Oct 26 13:26 abc
+-rw-r--r-- 1 alext 197609  6 Oct 26 13:27 todo.txt
